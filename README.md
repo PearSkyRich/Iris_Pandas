@@ -1,4 +1,4 @@
 # Iris_Pandas
 Learning Pandas throught iris.csv
 
-có thể quay lại sau này
+Sau này tạo dự án cho btl
